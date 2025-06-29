@@ -9,3 +9,4 @@ let A = 1;
 console.log(userInput + "X" + A +"=" + userInput *a)
 console.log(userInput + "x" + ++A +"=" + userInput *a)
 console.log(userInput + "x" + ++A +"=" + userInput *a)
+console.log(userInput + "x" + ++A +"=" + userInput *a)
